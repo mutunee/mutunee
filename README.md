@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=mutunee&theme=dark&hide_border=false) 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Ones🤓
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
