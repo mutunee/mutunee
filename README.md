@@ -2,7 +2,8 @@
 🔭  I'm currently working on Qefiney Creatives🏭.<br>🌱  I'm currently learning mobile📱 development🔨.<br>⚡ Fun fact: Petrol⛽ Head🚘<br>💬  Ask me about Front-end💻development & UI/UX Design🎨.
 <br/>
 <br/>
-Let's connect
+Let's connect:
+<br/>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qefiney@gmail.com) 
 
 ### 💻Stack & toolS⚙️
