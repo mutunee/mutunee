@@ -1,5 +1,5 @@
 ### 💫 Hello👋👋, I'm Kelvin Mutune🤓
-🔭  I'm currently working on Qefiney Creatives🏭<br>🌱  I'm currently learning mobile📱 development🔨<br>⚡ Fun fact: Petrol⛽ Head🚘<br>💬  Ask me about Front-end💻development & UI/UX Design🎨
+🔭  I'm currently working on Qefiney Creatives🏭<br>🌱  Currently expanding my skills in 📱Next.Js, TypeScript & React Native🔨<br>⚡ Fun fact: Petrol⛽ Head🚘<br>💬  Ask me about Front-end💻development & UI/UX Design🎨
 <br/>
 <br/>
 Let's connect:
