@@ -1,4 +1,4 @@
-### 💫 Hello👋👋, I'm Mutune Maina🤓
+### 💫 Hello👋👋, I'm Mutune Maina🤓 a UI/UX Developer.
 🔭  I'm currently working on Qefiney Creatives🏭<br>🌱  Currently expanding my skills in 📱Next.Js, TypeScript & React Native🔨<br>⚡ Fun fact: Petrol⛽ Head🚘<br>💬  Ask me about Front-end💻development & UI/UX Design🎨
 <br/>
 <br/>
